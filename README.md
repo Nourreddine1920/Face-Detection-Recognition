@@ -3,9 +3,6 @@
 
 
 
-# Face Detection and Recognition 
-
-My first project on Face Detection and Recognition Model using python , Machine Learning and Computer Vision library : 👉 OpenCV 
 
 ##  ▶️ OPENCV
 
@@ -69,7 +66,7 @@ pip install opencv-contrib-python
 
 ``` python3 training.py ```
 
- ##### 23️⃣ FINAL STEP
+ ##### 3️⃣ FINAL STEP
 
  ``` python3 Face_recognition.py ```
  
